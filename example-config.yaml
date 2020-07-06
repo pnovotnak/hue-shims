@@ -1,0 +1,7 @@
+uid: "xxxxxxxxxxxxx"
+host: "192.168.0.10"
+
+dumbSwitches:
+  kitchen:
+    trigger_light_ids: [1, 2]
+    target_light_ids: [3]
